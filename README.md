@@ -6,30 +6,25 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200" bgcolor="#EFF6FF">
-      <p>
-        <b>🎯 前端 Engineer</b><br>
-        <sub>Vue 3 · TypeScript · Tailwind</sub>
-      </p>
-    </td>
-    <td width="12"></td>
-    <td align="center" width="200" bgcolor="#ECFDF5">
-      <p>
-        <b>🌱 全栈探索</b><br>
-        <sub>Node.js · MySQL · Redis</sub>
-      </p>
-    </td>
-    <td width="12"></td>
-    <td align="center" width="200" bgcolor="#FFFBEB">
-      <p>
-        <b>⚡ 持续构建</b><br>
-        <sub>边学边做 · 项目驱动</sub>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- 终端标题栏 -->
+  <div style="background:#24292E;padding:8px 12px;text-align:left;max-width:600px;margin:0 auto">
+    <span style="color:#FF5F56">●</span>
+    <span style="color:#FFBD2E;margin:0 8px">●</span>
+    <span style="color:#27C93F">●</span>
+    <span style="color:#9DA5B4;margin-left:16px">violet-viper@github ~ </span>
+  </div>
+  <!-- 终端内容 -->
+  <div style="background:#0D1117;padding:20px;text-align:left;color:#C9D1D9;font-size:14px;line-height:1.8;max-width:600px;margin:0 auto">
+    <div>$ whoami</div>
+    <div style="color:#58A6FF">大二在读 · 前端开发者 · 全栈探索者</div>
+    <br>
+    <div>$ cat skills.txt</div>
+    <div style="color:#7EE787">前端主力: Vue 3 + TypeScript + Tailwind CSS</div>
+    <div style="color:#FFA657">全栈探索: Node.js + MySQL + Docker</div>
+    <div style="color:#D2A8FF">当前状态: 学习中 · 项目构建中</div>
+  </div>
+</div>
 
 ---
 
