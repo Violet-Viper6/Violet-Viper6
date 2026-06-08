@@ -6,24 +6,13 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="right">
-      <img src="https://img.shields.io/badge/💙_Main_Stack-3B82F6?style=for-the-badge">
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="right">
-      <img src="https://img.shields.io/badge/🌱_Explore-10B981?style=for-the-badge">
-    </td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/💙_Main_Stack-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/🌱_Explore-10B981?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
 
 ---
 
