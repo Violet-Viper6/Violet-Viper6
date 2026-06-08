@@ -63,6 +63,15 @@
 
 ---
 
+## 📊 GitHub 统计
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Violet-Viper6&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Violet-Viper6&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 ## 🎯 学习路线
 
 ```mermaid
@@ -129,5 +138,8 @@ graph LR
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Violet-Viper6&color=7C3AED&style=flat-square" alt="profile-views">
-  <p>⭐ <i>Keep coding, keep growing!</i></p>
 </div>
+
+<p align="center">
+  <i>"Keep coding, keep growing. 代码不止，进步不停。"</i>
+</p>
