@@ -6,22 +6,27 @@
   </a>
 </p>
 
-<table align="center" style="border-collapse:separate;border-spacing:12px">
+<table align="center">
   <tr>
-    <td align="center" width="180" style="background:linear-gradient(135deg,#3b82f6,#2563eb);border-radius:16px;padding:16px 20px">
-      <div style="font-size:32px;margin-bottom:6px">🎯</div>
-      <div style="color:white;font-weight:700;font-size:15px">前端 Engineer</div>
-      <div style="color:rgba(255,255,255,0.75);font-size:12px;margin-top:2px">Vue 3 · TypeScript</div>
+    <td align="center" width="200" bgcolor="#EFF6FF">
+      <p>
+        <b>🎯 前端 Engineer</b><br>
+        <sub>Vue 3 · TypeScript · Tailwind</sub>
+      </p>
     </td>
-    <td align="center" width="180" style="background:linear-gradient(135deg,#10b981,#059669);border-radius:16px;padding:16px 20px">
-      <div style="font-size:32px;margin-bottom:6px">🌱</div>
-      <div style="color:white;font-weight:700;font-size:15px">全栈探索</div>
-      <div style="color:rgba(255,255,255,0.75);font-size:12px;margin-top:2px">Node.js · 数据库</div>
+    <td width="12"></td>
+    <td align="center" width="200" bgcolor="#ECFDF5">
+      <p>
+        <b>🌱 全栈探索</b><br>
+        <sub>Node.js · MySQL · Redis</sub>
+      </p>
     </td>
-    <td align="center" width="180" style="background:linear-gradient(135deg,#8b5cf6,#7c3aed);border-radius:16px;padding:16px 20px">
-      <div style="font-size:32px;margin-bottom:6px">⚡</div>
-      <div style="color:white;font-weight:700;font-size:15px">持续构建</div>
-      <div style="color:rgba(255,255,255,0.75);font-size:12px;margin-top:2px">边学边做 · 项目驱动</div>
+    <td width="12"></td>
+    <td align="center" width="200" bgcolor="#FFFBEB">
+      <p>
+        <b>⚡ 持续构建</b><br>
+        <sub>边学边做 · 项目驱动</sub>
+      </p>
     </td>
   </tr>
 </table>
