@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✨_Main_Stack-Vue_3_•_TypeScript_•_Tailwind-3B82F6?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/🌱_Exploring-Node.js_•_MySQL_•_Docker-10B981?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue_3_•_TypeScript_•_Tailwind_CSS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js_•_MySQL_•_Docker-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
 ---
