@@ -1,12 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Violet Viper 🎯</h1>
   <p>
-    <b>大二在读 · Vue 3 前端方向 · 全栈发展中</b>
+    <b>大二在读 · 前端方向 · 全栈学习者</b>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Focus-Vue_3_|_TypeScript-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="focus">
+    <img src="https://img.shields.io/badge/Focus-Frontend_%7C_Node.js-3b82f6?style=flat-square" alt="focus">
     <img src="https://img.shields.io/badge/Status-Learning_&_Building-brightgreen?style=flat-square" alt="status">
-    <img src="https://img.shields.io/badge/AI_Coding-Tooling_in_Use-8b5cf6?style=flat-square" alt="ai">
   </p>
 </div>
 
@@ -14,65 +13,65 @@
 
 ## 🛠️ 技术栈
 
-### 🥇 第一梯队 · 必备技能
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vue">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="ts">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="vite">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="tailwind">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=elementplus&logoColor=white&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="element">
-  <img src="https://img.shields.io/badge/uni--app-2B9939?style=for-the-badge&logo=vuedotjs&logoColor=white&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="uniapp">
-</p>
-
-### 🥈 第二梯队 · 加分项
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="git">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="axios">
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="eslint">
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black&label=%E5%AD%A6%E4%B9%A0%E4%B8%AD" alt="prettier">
-</p>
-
-### 🥉 第三梯队 · 了解即可
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
-</p>
-
----
-
-## 🤖 AI Coding 工具
-
-<table align="center">
+<table>
   <tr>
-    <td align="center"><b>✅ 已在使用</b></td>
-    <td align="center"><b>🔍 了解探索中</b></td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude-code">
-        <img src="https://img.shields.io/badge/CodeBuddy-006eff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCI+PC9jaXJjbGU+PC9zdmc+&logoColor=white" alt="codebuddy">
-        <img src="https://img.shields.io/badge/Coze-4b32c3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHJ4PSIzIiBmaWxsPSJ3aGl0ZSI+PC9yZWN0Pjwvc3ZnPg==&logoColor=white" alt="coze">
-      </p>
+    <td valign="top" width="33%">
+      <h4 align="center">🔷 前端基础</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind">
+      </div>
     </td>
-    <td>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Codex-663399?style=for-the-badge" alt="codex">
-        <img src="https://img.shields.io/badge/Stitch-2563eb?style=for-the-badge" alt="stitch">
-      </p>
+    <td valign="top" width="33%">
+      <h4 align="center">🔶 框架 & 全栈</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vue">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs">
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">🟢 工程化 & 部署</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="github-actions">
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4 align="center">🟣 跨端 & 桌面</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Uni--app-2B9939?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="uniapp">
+        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="electron">
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">🗄️ 数据库</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis">
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">🧰 工具链</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint">
+        <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="prettier">
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="axios">
+      </div>
     </td>
   </tr>
 </table>
@@ -83,35 +82,40 @@
 
 ```mermaid
 graph LR
-    A[📚 前端基础<br/>HTML/CSS/JS] --> B[⚡ Vue 3 生态<br/>TS + Vite + Tailwind]
-    B --> C[📱 跨端开发<br/>uni-app]
-    B --> D[🔧 工程化<br/>Git / ESLint / CI/CD]
-    C --> E[🖥️ 全栈拓展<br/>Node.js / MySQL]
-    D --> E
-    E --> F[🚀 部署运维<br/>Docker / Nginx]
+    A[📚 前端基础<br/>HTML/CSS/JS/TS] --> B[⚛️ 核心框架<br/>Vue / React]
+    B --> C[🖥️ 全栈拓展<br/>Node.js / NestJS]
+    C --> D[📱 跨端开发<br/>Uni-app / Electron]
+    B --> E[🔧 工程化<br/>Vite / Git / Docker]
+    E --> F[🚀 部署运维<br/>Nginx / CI/CD]
 ```
 
-> **从开发到上线的完整闭环**：Vue 3 写业务 → Vite 构建 → uni-app 跨端分发 → Node.js 后端 → Docker + Nginx 部署
+> **从开发到上线的完整闭环**：开发（框架写业务）→ 构建（Vite 打包）→ 部署（Nginx + Docker + CI/CD）
 
 ---
 
 ## 📚 学习动态
 
-| 板块 | 状态 | 优先级 | 重点 |
-|:---|:---:|:---:|:---|
-| HTML5 / CSS3 | 🟢 进行中 | 🥇 | 响应式 / Flexbox / Grid / 动画 |
-| JavaScript / ES6+ | 🟢 进行中 | 🥇 | 原型链 / 闭包 / 异步 / Promise |
-| Vue 3 + Composition API | 🟡 即将开始 | 🥇 | 组件化 / Pinia / Vue Router |
-| TypeScript | 🟡 即将开始 | 🥇 | 类型系统 / 泛型 / 工具类型 |
-| Vite + Tailwind CSS | 🟡 即将开始 | 🥇 | 构建配置 / 原子化 CSS |
-| uni-app 跨端 | ⚪ 规划中 | 🥇 | 多端适配 / 小程序发布 |
-| Git / ESLint / Prettier | 🟡 即将开始 | 🥈 | 版本控制 / 代码规范 |
-| Node.js / MySQL | ⚪ 规划中 | 🥉 | RESTful API / 数据库设计 |
-| Docker / Nginx | ⚪ 规划中 | 🥉 | 容器化 / 反向代理 / SSL |
+| 板块 | 状态 | 重点 |
+|:---|:---:|:---|
+| HTML5 / CSS3 | 🟢 进行中 | 响应式布局 / Flexbox / Grid / 动画 |
+| JavaScript / TypeScript | 🟡 待开始 | ES6+ / 类型系统 / 异步编程 |
+| Vue / React | ⚪ 规划中 | 组件化 / 状态管理 / 路由 |
+| Node.js / NestJS | ⚪ 规划中 | RESTful API / 数据库 / 认证 |
+| 工程化 / CI/CD | ⚪ 规划中 | Vite 构建 / Docker 部署 / 自动化 |
+
+---
+
+## 🚀 项目
+
+<a href="https://github.com/Violet-Viper6/happiness_calculator">
+  <img align="left" style="margin-right:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Violet-Viper6&repo=happiness_calculator&theme=default" />
+</a>
+
+<br clear="left"/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Violet-Viper6&color=4FC08D&style=flat-square" alt="profile-views">
+  <img src="https://komarev.com/ghpvc/?username=Violet-Viper6&color=blueviolet&style=flat-square" alt="profile-views">
   <p>⭐ <i>Keep coding, keep growing!</i></p>
 </div>
