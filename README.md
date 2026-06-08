@@ -16,34 +16,26 @@
 
 ## 🛠 技术栈
 
-<p align="center">
-  <sub>标签前缀 = 掌握程度：</sub>
-  <img src="https://img.shields.io/badge/精通-22C55E?style=flat-square">
-  <img src="https://img.shields.io/badge/熟练-3B82F6?style=flat-square">
-  <img src="https://img.shields.io/badge/学习中-F59E0B?style=flat-square">
-  <img src="https://img.shields.io/badge/了解-6B7280?style=flat-square">
-</p>
-
 <table>
   <tr>
     <td valign="top" width="50%">
       <h4>🔷 前端基础</h4>
       <p>
-        <img src="https://img.shields.io/badge/精通-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/精通-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/学习中-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/了解-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/学习中-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
       </p>
     </td>
     <td valign="top" width="50%">
       <h4>🔶 框架 & 全栈</h4>
       <p>
-        <img src="https://img.shields.io/badge/熟练-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/了解-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/熟练-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
       </p>
     </td>
   </tr>
@@ -51,18 +43,18 @@
     <td valign="top" width="50%">
       <h4>🟢 工程化 & 部署</h4>
       <p>
-        <img src="https://img.shields.io/badge/了解-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-        <img src="https://img.shields.io/badge/学习中-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
       </p>
     </td>
     <td valign="top" width="50%">
       <h4>🟣 跨端 & 桌面</h4>
       <p>
-        <img src="https://img.shields.io/badge/了解-Uni--app-2B9939?style=for-the-badge&logo=vuedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
+        <img src="https://img.shields.io/badge/Uni--app-2B9939?style=flat-square&logo=vuedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
       </p>
     </td>
   </tr>
@@ -70,29 +62,17 @@
     <td valign="top" width="50%">
       <h4>🗄️ 数据库</h4>
       <p>
-        <img src="https://img.shields.io/badge/了解-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
       </p>
     </td>
     <td valign="top" width="50%">
       <h4>🧰 工具链</h4>
       <p>
-        <img src="https://img.shields.io/badge/了解-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
-        <img src="https://img.shields.io/badge/了解-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
-        <img src="https://img.shields.io/badge/了解-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="100%" colspan="2">
-      <h4>🤖 AI 工具</h4>
-      <p>
-        <img src="https://img.shields.io/badge/熟练-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-        <img src="https://img.shields.io/badge/熟练-CloudBuddy-006eff?style=for-the-badge">
-        <img src="https://img.shields.io/badge/熟练-Coze-4B32C3?style=for-the-badge">
-        <img src="https://img.shields.io/badge/了解-Codex-663399?style=for-the-badge">
-        <img src="https://img.shields.io/badge/了解-Stitch-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
+        <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black">
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
       </p>
     </td>
   </tr>
