@@ -1,4 +1,4 @@
-# 🐍 Hi, I'm Violet Viper
+#  Hi, I'm Violet Viper
 
 > 🎓 大二在读 · 前端开发学习中
 
