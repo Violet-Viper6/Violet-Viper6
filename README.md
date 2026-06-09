@@ -2,28 +2,28 @@
 
 <p align="center">
   <a href="https://github.com/Violet-Viper6">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=大二在读%20|%20前端开发者%20|%20全栈探索者;热爱代码%20|%20热爱生活%20|%20持续成长&font=Noto+Sans+SC&center=true&width=600&height=45&color=7C3AED&vCenter=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sophomore%20|%20Frontend%20Dev%20|%20Full-Stack%20Explorer;Love%20Code%20|%20Love%20Life%20|%20Keep%20Growing&font=Noto+Sans+SC&center=true&width=600&height=45&color=7C3AED&vCenter=true&size=18">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💙_Main_Stack-3B82F6?style=plastic">
-
-  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=plastic&logo=vuedotjs&logoColor=white">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🌱_Explore-D2B48C?style=plastic">
+  <img src="https://img.shields.io/badge/💙_Main_Stack-3B82F6?style=for-the-badge">
   
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🌱_Explore-D2B48C?style=for-the-badge">
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
 ---
 
-## 🛠 技术栈
+## 🛠 Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>🔷 前端基础</h4>
+      <h4>🔷 Frontend Basics</h4>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -33,7 +33,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>🔶 框架 & 全栈</h4>
+      <h4>🔶 Frameworks & Full Stack</h4>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>🟢 工程化 & 部署</h4>
+      <h4>🟢 Engineering & Deploy</h4>
       <p>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -55,7 +55,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>🟣 跨端 & 桌面</h4>
+      <h4>🟣 Cross-platform & Desktop</h4>
       <p>
         <img src="https://img.shields.io/badge/Uni--app-2B9939?style=for-the-badge&logo=vuedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>🗄️ 数据库</h4>
+      <h4>🗄️ Databases</h4>
       <p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -72,7 +72,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>🧰 工具链</h4>
+      <h4>🧰 Toolchain</h4>
       <p>
         <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
         <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
@@ -84,64 +84,64 @@
 
 ---
 
-## 🎯 学习路线
+## 🎯 Learning Roadmap
 
 ```mermaid
 graph LR
-    A[📚 前端基础<br/>HTML/CSS/JS/TS] --> B[⚛️ 核心框架<br/>Vue / React]
-    B --> C[🖥️ 全栈拓展<br/>Node.js / NestJS]
-    C --> D[📱 跨端开发<br/>Uni-app / Electron]
-    B --> E[🔧 工程化<br/>Vite / Git / Docker]
-    E --> F[🚀 部署运维<br/>Nginx / CI/CD]
+    A[📚 Frontend<br/>HTML/CSS/JS/TS] --> B[⚛️ Core Framework<br/>Vue / React]
+    B --> C[🖥️ Full-Stack<br/>Node.js / NestJS]
+    C --> D[📱 Cross-platform<br/>Uni-app / Electron]
+    B --> E[🔧 Engineering<br/>Vite / Git / Docker]
+    E --> F[🚀 Deploy & Ops<br/>Nginx / CI/CD]
 ```
 
-> 从开发到上线的完整闭环：开发 → 构建 → 部署
+> From development to production: Dev → Build → Deploy
 
 ---
 
-## 📚 学习动态
+## 📚 Learning Progress
 
 <div align="center">
   <table>
     <tr>
-      <th width="200">模块</th>
-      <th width="100">进度</th>
-      <th width="400">当前重点</th>
+      <th width="200">Module</th>
+      <th width="100">Progress</th>
+      <th width="400">Focus</th>
     </tr>
     <tr>
       <td>HTML5 / CSS3</td>
       <td>
         <img src="https://geps.dev/progress/80?dangerColor=800080&warningColor=ff00ff&successColor=0066ff">
       </td>
-      <td>响应式布局 / Flexbox / Grid / CSS动画</td>
+      <td>Responsive Layout / Flexbox / Grid / CSS Animations</td>
     </tr>
     <tr>
       <td>JavaScript / TypeScript</td>
       <td>
         <img src="https://geps.dev/progress/40?dangerColor=800080&warningColor=ff00ff&successColor=0066ff">
       </td>
-      <td>ES6+语法 / 类型系统 / 异步编程 / Promise</td>
+      <td>ES6+ Syntax / Type System / Async / Promise</td>
     </tr>
     <tr>
-      <td>Vue 3 全家桶</td>
+      <td>Vue 3 Ecosystem</td>
       <td>
         <img src="https://geps.dev/progress/20?dangerColor=800080&warningColor=ff00ff&successColor=0066ff">
       </td>
       <td>Composition API / Pinia / Vue Router / Vite</td>
     </tr>
     <tr>
-      <td>Node.js 后端</td>
+      <td>Node.js Backend</td>
       <td>
         <img src="https://geps.dev/progress/10?dangerColor=800080&warningColor=ff00ff&successColor=0066ff">
       </td>
-      <td>Express / RESTful API / 数据库操作</td>
+      <td>Express / RESTful API / Database</td>
     </tr>
     <tr>
-      <td>工程化与部署</td>
+      <td>Engineering & Deploy</td>
       <td>
         <img src="https://geps.dev/progress/5?dangerColor=800080&warningColor=ff00ff&successColor=0066ff">
       </td>
-      <td>Docker基础 / Nginx配置 / CI/CD</td>
+      <td>Docker Basics / Nginx / CI/CD</td>
     </tr>
   </table>
 </div>
@@ -153,5 +153,5 @@ graph LR
 </div>
 
 <p align="center">
-  <i>"Keep coding, keep growing. 代码不止，进步不停。"</i>
+  <i>"Keep coding, keep growing."</i>
 </p>
