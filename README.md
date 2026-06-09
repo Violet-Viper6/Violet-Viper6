@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💙_Main_Stack-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/💙_Main_Stack-3B82F6?style=flat">
   
-  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🌱_Explore-D2B48C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🌱_Explore-D2B48C?style=flat">
   
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
 </p>
 
 ---
@@ -36,8 +36,6 @@
       <h4>🔶 Frameworks & Full Stack</h4>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
       </p>
@@ -153,5 +151,5 @@ graph LR
 </div>
 
 <p align="center">
-  <i>"心静能通万事理,心平能愈三千疾."</i>
+  <i>"Keep coding, keep growing. &nbsp;&nbsp;&nbsp; 心静能通万事理 ,&nbsp;&nbsp;&nbsp; 心平能愈三千疾 ."</i>
 </p>
