@@ -151,5 +151,5 @@ graph LR
 </div>
 
 <p align="center">
-  <i>"Keep coding, keep growing. &nbsp;&nbsp;&nbsp; 心静能通万事理 ,&nbsp;&nbsp;&nbsp; 心平能愈三千疾 ."</i>
+  <i>"心静能通万事理 &nbsp;&nbsp;&nbsp; 心平能愈三千疾 ."</i>
 </p>
