@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💙_Main_Stack-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/💙_Main_Stack-3B82F6?style=flat-square">
   <b>||</b>
-  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🌱_Explore-D2B48C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🌱_Explore-D2B48C?style=flat-square">
   <b>||</b>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 </p>
 
 ---
