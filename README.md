@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Violet-Viper6">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sophomore%20|%20Frontend%20Dev%20|%20Full-Stack%20Explorer;Love%20Code%20|%20Love%20Life%20|%20Keep%20Growing&font=Noto+Sans+SC&center=true&width=600&height=45&color=7C3AED&vCenter=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sophomore%20|%20Frontend%20Dev%20|%20Full-Stack%20Explorer;Non%20Terrae%20Plus%20Ultra&font=Noto+Sans+SC&center=true&width=600&height=45&color=7C3AED&vCenter=true&size=18">
   </a>
 </p>
 
