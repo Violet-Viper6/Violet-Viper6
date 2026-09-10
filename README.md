@@ -5,7 +5,8 @@
   <a href="https://github.com/Violet-Viper6">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Sophomore%20|%20Frontend%20Dev%20|%20Full-Stack%20Explorer;Non%20Terrae%20Plus%20Ultra&font=Noto+Sans+SC&center=true&width=600&height=45&color=7C3AED&vCenter=true&size=18">
   </a>
-  <img src="img/爻老板.gif" alt="爻老板" width="500px" >
+  <br>
+  <img src="img/爻老板.gif" alt="爻老板" width="300px" >
 </p>
 
 <p align="center">
